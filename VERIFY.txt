@@ -1,0 +1,5 @@
+u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7
+run1: /home/hatch/workspace/makefun/u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7/output1/entry.txt chars: 95 sha256: e0608386a3bdf67a99a2424e4fec457b0891e399d45874b72474f8e04c770cfe 
+run2: /home/hatch/workspace/makefun/u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7/output2/entry.txt chars: 95 sha256: e0608386a3bdf67a99a2424e4fec457b0891e399d45874b72474f8e04c770cfe 
+sha256: e0608386a3bdf67a99a2424e4fec457b0891e399d45874b72474f8e04c770cfe
+status: BYTE-IDENTICAL
